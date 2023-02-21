@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#procent{
+    position: relative;
+    background-color: black;;
+    border-radius:10px;
+    font-size: 26px;
+    color: #FFFFFF;
+    width: 100px;
+    text-align: center;
+    font-family: 'Arial';
+}
+#nr{
+    font-size: 24px;
+    border-radius:10px;
+    font-family: 'Arial';
+}
+#money{
+    font-size: 24px;
+    border-radius:10px;
+    font-family: 'Arial';
+}
+#result{
+    font-size: 24px;
+    font-family: 'Arial';
+}

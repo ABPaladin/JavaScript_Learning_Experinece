@@ -1,0 +1,9 @@
+.faq{
+    margin: 10px;
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+.answer {
+    border-top: 2px solid green;
+}

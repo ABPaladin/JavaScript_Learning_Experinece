@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valute Convertor Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Tabla de valute -->
+<h5 id="date"></h5>
+    <div id="container1">
+        <div id="row">
+            <span>100$</span> <span>--</span> <span id="dolar-in-mdl"></span><br/>
+            <span>100€</span> <span>--</span> <span id="euro-in-mdl"></span><br/>
+            <span>100rub</span> <span>--</span> <span id="rub-in-mdl"></span><br/>
+            <span>100ron</span> <span>--</span> <span id="ron-in-mdl"></span><br/>
+            <span>100pounds</span> <span>--</span> <span id="pounds-in-mdl"></span><br/>
+        </div>
+    </div>
+    <br>
+
+<!-- Convertorul valutar -->
+    <input type="text" id="firstinput" placeholder="0">
+    <input type="text" id="secondinput" placeholder="0">
+    <select id="selectValute1">
+        <option value="euro">€</option>
+        <option value="usd">$</option>
+        <option value="rub">rub</option>
+        <option value="ron">ron</option>
+        <option value="mdl">mdl</option>
+    </select>
+    <select id="selectValute2">
+        <option value="mdl">mdl</option>
+        <option value="usd">$</option>
+        <option value="euro">€</option>
+        <option value="rub">rub</option>
+        <option value="ron">ron</option>
+    </select>
+    
+    <br><br>
+
+    <!-- Categoriile filtrare si produsele -->
+    <span>Category</span>
+    <div id="category">
+        <div id="categoryRow">
+            <span>Filtre By product</span><br/>  
+            <div id="myBtnContainer">
+            <button id="btn active" onclick="filterSelection('all')"> Show all</button>
+            <button id="btnCar" onclick="filterSelection('cars')"> Cars</button>
+            <button id="btnComp" onclick="filterSelection('computers')"> Computers</button>
+            <button id="btnClothes" onclick="filterSelection('clothes')"> Clothes</button>
+            <button id="btnPhones" onclick="filterSelection('phones')"> Phones</button>
+            </div>
+            <span>Filtre By price</span><br/>
+            <div id="price-input">
+                <div id="field">
+                    <span>Min</span>
+                    <input type="number" id="input-min" value="2500">
+                <div id="field">
+                <div id="separator">--</div>
+                    <span>Max</span>
+                    <input type="number" id="input-max" value="6500">
+                </div>
+            </div>
+            <div id="slider">
+                <div id="progress"</div>
+            </div>
+            <div id="range-input">
+                <input type="range" id="range-min" min="0" max="1000000" value="2500">
+                <input type="range" id="range-max" min="0" max="1000000" value="6500">
+            </div>
+        </div>
+    </div>
+<br/>
+
+<!-- Produsele -->
+    <div id="container2">
+        <div id="filterDivcars">BMW</div>
+        <div id="filterDivphones">Samsung S10</div>
+        <div id="filterDivcars">Volvo</div>
+        <div id="filterDivclothes">Hoodie</div>
+        <div id="filterDivcars">Mustang</div>
+        <div id="filterDivcomputers">Asus Zenbook</div>
+        <div id="filterDivphones">IPhone 13</div>
+        <div id="filterDivclothes">Leather Jacket</div>
+        <div id="filterDivcomputers">Lenovo IdeaPad</div>
+        <div id="filterDivcars">Ferrari</div>
+        <div id="filterDivphones">Xiamomi redmi Note 11</div>
+        <div id="filterDivcomputers">Dell Inspirion</div>
+        <div id="filterDivclothes">Dress</div>
+      </div>
+    <script src="app.js"></script>
+</body>
+</html>

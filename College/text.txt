@@ -1,0 +1,45 @@
+<ul class="orarulSetka">
+    <li class="setkaItem"><a href="/timetable-ipf011">IPF-011</a></li>
+    <li class="setkaItem"><a href="/timetable-ipf012">IPF-012</a></li>
+    <li class="setkaItem"><a href="/timetable-paa011">PAA-011</a></li>
+    <li class="setkaItem"><a href="/timetable-paa012">PAA-012</a></li>
+    <li class="setkaItem"><a href="/timetable-spa011">SPA-011</a></li>
+    <li class="setkaItem"><a href="/timetable-d011">D-011</a></li>
+    <li class="setkaItem"><a href="/timetable-d012">D-012</a></li>
+    <li class="setkaItem"><a href="/timetable-d013">D-013</a></li>
+    <li class="setkaItem"><a href="/timetable-web011">WEB-011</a></li>
+    <li class="setkaItem"><a href="/timetable-web012">WEB-012</a></li>
+    <li class="setkaItem"><a href="/timetable-web013">WEB-013</a></li>
+    
+    <li class="setkaItem"><a href="/timetable-d021">D-021</a></li>
+    <li class="setkaItem"><a href="/timetable-d022">D-022</a></li>
+    <li class="setkaItem"><a href="/timetable-d023">D-023</a></li>
+    <li class="setkaItem"><a href="/timetable-d031">D-031</a></li>
+    <li class="setkaItem"><a href="/timetable-d032">D-032</a></li>
+    <li class="setkaItem"><a href="/timetable-paa031">PAA-031</a></li>
+    <li class="setkaItem"><a href="/timetable-sas031">SAS-031</a></li>
+    <li class="setkaItem"><a href="/timetable-web022">WEB-022</a></li>
+    <li class="setkaItem"><a href="/timetable-paa032">PAA-032</a></li>
+<li class="setkaItem"><a href="/timetable-web031">WEB-031</a></li>
+<li class="setkaItem"><a href="/timetable-web032">WEB-032</a></li>
+<li class="setkaItem"><a href="/timetable-ipf031">IPF-031</a></li>
+<li class="setkaItem"><a href="/timetable-ipf032">IPF-032</a></li>      
+<li class="setkaItem"><a href="/timetable-spa031">SPA-031</a></li>
+<li class="setkaItem"><a href="/timetable-ipf021">IPF-021</a></li>
+<li class="setkaItem"><a href="/timetable-web021">WEB-021</a></li>
+<li class="setkaItem"><a href="/timetable-web023">WEB-023</a></li>
+<li class="setkaItem"><a href="/timetable-paa021">PAA-021</a></li>
+<li class="setkaItem"><a href="/timetable-paa022">PAA-022</a></li>
+<li class="setkaItem"><a href="/timetable-paa031">PAA-031</a></li>
+<li class="setkaItem"><a href="/timetable-paa032">PAA-032</a></li>
+<li class="setkaItem"><a href="/timetable-spa021">SPA-021</a></li>
+
+    <li class="setkaItem"><a href="/timetable-sas041">SAS-041</a></li>
+    <li class="setkaItem"><a href="/timetable-ipf041">IPF-041</a></li>
+    <li class="setkaItem"><a href="/timetable-spa041">SPA-041</a></li>
+    <li class="setkaItem"><a href="/timetable-web041">WEB-041</a></li>
+    <li class="setkaItem"><a href="/timetable-web042">WEB-042</a></li>
+    <li class="setkaItem"><a href="/timetable-paa-041">PAA-041</a></li>
+    <li class="setkaItem"><a href="/timetable-paa-042">PAA-042</a></li>
+
+</ul>

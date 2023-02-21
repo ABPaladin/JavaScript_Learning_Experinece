@@ -1,0 +1,21 @@
+#container{
+    width: 230px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.ocupat{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.liber{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+  }
